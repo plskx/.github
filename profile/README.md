@@ -12,7 +12,14 @@
 -->
 
 <div align="center">
-  <a href="https://discord.com/users/90431685472038912" target="_blank">
-    <img alt="discord card profile"src="https://lanyard.kyrie25.me/api/90431685472038912?idleMessage=Just%20chillin'%20at%20the%20moment..." />
-  </a>
+  <!--
+    <a href="https://discord.com/users/90431685472038912" target="_blank">
+      <img alt="discord card profile"src="https://lanyard.kyrie25.me/api/90431685472038912?idleMessage=Just%20chillin'%20at%20the%20moment..." />
+    </a>
+  -->
+  
+  ![raccoon](https://user-images.githubusercontent.com/57343545/209951241-71d3b024-c603-41ab-8370-ff7c93467d8b.png)
+  
 </div>
+
+
